@@ -1,2 +1,2 @@
 # dbt-snowflake
-Store Talend Artifacts
+Create dbt models
