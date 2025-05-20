@@ -1,2 +1,2 @@
-# Talend
+# dbt-snowflake
 Store Talend Artifacts
